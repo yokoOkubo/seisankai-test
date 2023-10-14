@@ -1,38 +1,19 @@
 .App {
-  text-align: center;
-}
+  text-align: left;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+  
+  /* タブの色 */
+  .nav .MuiTab-root {
+    background-color: #9d2; /* 背景色 */
+    color: #000000; /* 文字色 */
+    font-size: 20px;
+    padding: 10px 30px;
+  }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  /* タブのホバー時の色 */
+  .nav .MuiTab-root:hover {
+    background-color: #004D40;
+    color: #ffffff;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
