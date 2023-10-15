@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seisankai-test/static/css/main.ea447f44.css",
+    "main.js": "/seisankai-test/static/js/main.417f60aa.js",
+    "static/js/787.04d79e5e.chunk.js": "/seisankai-test/static/js/787.04d79e5e.chunk.js",
+    "index.html": "/seisankai-test/index.html",
+    "main.ea447f44.css.map": "/seisankai-test/static/css/main.ea447f44.css.map",
+    "main.417f60aa.js.map": "/seisankai-test/static/js/main.417f60aa.js.map",
+    "787.04d79e5e.chunk.js.map": "/seisankai-test/static/js/787.04d79e5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea447f44.css",
+    "static/js/main.417f60aa.js"
+  ]
+}
